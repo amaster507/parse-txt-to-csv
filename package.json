@@ -1,0 +1,14 @@
+{
+  "name": "parser",
+  "version": "1.0.0",
+  "description": "Parse a non standard text/log file and save output to csv.",
+  "main": "parse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node parse.js"
+  },
+  "author": "Anthony Master",
+  "dependencies": {
+    "csv-stringify": "^6.1.0"
+  }
+}

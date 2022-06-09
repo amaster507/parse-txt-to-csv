@@ -1,0 +1,13 @@
+﻿CONTACT
+ID: 1
+NAME: Bob
+ADDRESS: Bobville
+PHONE: 555-555-5555
+EMAIL: bob@example.com
+
+CONTACT
+ID: 2
+NAME: Sally
+ADDRESS: Sallyville
+PHONE: 555-555-4444
+EMAIL: sally@example.com
